@@ -8,7 +8,7 @@ email: dksk0101@gmail.com
 avatar: /img/IMG_20201111_080243_767.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "https://jincastle.github.io/" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "https://jincastle.github.io/"
 
 # Social settings
